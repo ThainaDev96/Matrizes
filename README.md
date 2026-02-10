@@ -1,2 +1,2 @@
-# DecomposicaoMatrizes
-Trabalho da disciplina programação C sobre Decomposição de LU
+# Matrizes
+Matrizes em python da disciplina programação C 
